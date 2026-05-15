@@ -1,0 +1,25 @@
+# Data
+/data/
+
+# Large outputs
+/outputs/checkpoints/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tool caches
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
